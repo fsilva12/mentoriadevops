@@ -1,5 +1,5 @@
 # MentoriaDevops 
-Desafio 01
+Desafio 01:
 Foi criada máquina virtual no vagrant, e em seguida padronizei como role common
 Instalados os pacotes:
 vim
