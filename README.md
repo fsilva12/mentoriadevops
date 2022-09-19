@@ -1,6 +1,7 @@
-# mentoriadevops
-Criar máquina virtual no vagrant, em seguida padronizar com uma role common
-Instalar pacotes:
+# MentoriaDevops 
+Desafio 01
+Foi criada máquina virtual no vagrant, e em seguida padronizei como role common
+Instalados os pacotes:
 vim
 curl
 telnet
@@ -9,7 +10,8 @@ wget
 net-tools
 htop
 nmap
-Definir nome da máquina
-Criar um usuário com o seu nome
-Instalar nginx na máquina
+Definido nome da máquina;
+Criado um usuário com o meu nome;
+Instalado nginx na máquina virtual;
+Redirecionado no nginx para a porta 8090 utilizando o Network - Forwarded Ports;
 
